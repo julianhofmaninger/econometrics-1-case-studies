@@ -54,5 +54,5 @@ District median income is the strongest predictor of test scores (r = 0.595), su
 
 | File | Description |
 |---|---|
-| `cs1.Rmd` | R Markdown source |
-| `cs1.pdf` | Compiled output with all plots, estimates and interpretation |
+| `CaseStudy1.Rmd` | R Markdown source |
+| `CaseStudy1.pdf` | Compiled output with all plots, estimates and interpretation |
